@@ -1,4 +1,4 @@
-package com.smallMorning.ztest.testGenetic;
+package com.smallMorning.ztest;
 
 import java.util.ArrayList;
 import java.util.List;

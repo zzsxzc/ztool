@@ -1,4 +1,4 @@
-package com.smallMorning.ztest.testGenetic;
+package com.smallMorning.ztest;
 /**
 *@Author zheng zs
 *@Date 14:26 2020/11/24
